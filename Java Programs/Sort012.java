@@ -36,6 +36,8 @@ public class Sort012 {
 		System.out.print(sb);
 		br.close();
 
+         //Close() method closes the stream and releases any system resources associated with it
+		 
 	}
 
 }
